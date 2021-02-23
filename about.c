@@ -1,4 +1,6 @@
 #include<stdio.h>
 int main{
-print("Hii)
+printf("Hii")
+printg("Dear frnds")
 }
+
